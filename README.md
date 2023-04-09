@@ -107,7 +107,7 @@ Here are some ideas to get you started:
    
     
    #### Litcode
-   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IliaDuhov)](https://leetcode.com/alexsafr/)
+   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IliaDuhov)](https://leetcode.com/IliaDuhov/)
     
   </div>
   
