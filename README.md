@@ -78,17 +78,11 @@ Here are some ideas to get you started:
   </div>
   
   ---
-    
-  
-  <div id="Pinned repositories" align="left">
-    Pinned projects :
-    <div id = "Prod1" align="left">
-       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=ProjectH)](https://github.com/IliaDuhov/ProjectH)
-    </div>
+  Pinned projects:
      
-    
-  </div>
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=Java_For_Study)](https://github.com/IliaDuhov/Java_For_Study)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=ProjectH)](https://github.com/IliaDuhov/ProjectH)
+   
   ---
   
    <div id="my stats1" align="left">
