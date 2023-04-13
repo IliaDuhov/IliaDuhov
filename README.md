@@ -82,6 +82,7 @@ Here are some ideas to get you started:
      
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=Java_For_Study)](https://github.com/IliaDuhov/Java_For_Study)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=LeetCode_Tasks)](https://github.com/IliaDuhov/LeetCode_Tasks)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=JavaUniversity)](https://github.com/IliaDuhov/JavaUniversity)
    
   ---
   
