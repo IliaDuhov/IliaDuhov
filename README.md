@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   
- <div id="badges1" align="center">
+ <div id="badges1" align="left">
   
   <a href="https://t.me/DukhovIlia">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -23,19 +23,11 @@ Here are some ideas to get you started:
    
   </div>
   
-   <div id="badges3-email" align="center">
+   <div id="badges3-email" align="left">
    
   <a>
     <img src="https://img.shields.io/badge/dukhov03@mail.ru-darkred?logo=Email&logoColor=white&style=socialr" alt="email"/>
    </a>
-   
-   <div id="fall-image" align="center">
-    
-  <img src="https://github.com/IliaDuhov/IliaDuhov/blob/main/Being%20lost%20in%20space%20regardless%20of%20your%20warp%20speed.gif" width="500"/>
-
- </div>
-  
-  ---
   
   <div id="about me" align="left">
   
