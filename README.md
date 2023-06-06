@@ -68,13 +68,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
     </a>
   </div>
-  
-  ---
-  Pinned projects:
      
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IliaDuhov&repo=MongoCRUD)](https://github.com/IliaDuhov/MongoCRUD) 
-   
   ---
   
    <div id="my stats1" align="left">
@@ -88,8 +82,8 @@ Here are some ideas to get you started:
   
    <div id="my stats2" align="left">
       
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaDuhov&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaDuhov&layout=compact&theme=buefy&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliaDuhov&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IliaDuhov&theme=solarized_dark)
       
    </div>
     
