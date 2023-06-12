@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   ### :man_technologist: About Me :
  I am:\
      [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)\
-    -  A student of the Saratov State University and I'm studying a definite stack of technologies to become a software engineer\
+    -  A student of the Saratov State University and I'm studying a definite stack of technologies to become a software engineer
   ---
   
   <div id="Stack of Technologies" align="left">
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
    <a href="https://git-scm.com/">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
     </a> 
-   <a href="https://www.figma.com">  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+   <a href="https://kotlinlang.org/">  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
     </a>
     <a href="https://www.mongodb.com/">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
