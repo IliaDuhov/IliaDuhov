@@ -35,18 +35,6 @@ Here are some ideas to get you started:
  I am:\
      [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)\
     -  A student of the Saratov State University and I'm studying a definite stack of technologies to become a software engineer\
-    -  trying to be not a cosmonaut, but a spaceouter
-    
- My hobby:\
-    - photo  :<a href="https://unsplash.com/@iliadukhov">
-    <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
-    </a>
-    \
-    - aerial photography :<a href="https://www.dji.com/ru">
-    <img src="https://img.shields.io/badge/-DjiFly-lightgrey" alt="DJI Badge"/> 
-    </a>
-  </div>
-  
   ---
   
   <div id="Stack of Technologies" align="left">
