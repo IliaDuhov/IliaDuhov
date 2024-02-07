@@ -19,7 +19,13 @@ Here are some ideas to get you started:
   
   <a href="https://t.me/DukhovIlia">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
- </a>
+ </a> <br>
+ <a>
+    <img src="https://img.shields.io/badge/dukhov03@mail.ru-darkred?logo=Email&logoColor=white&style=socialr" alt="email"/>
+   </a> <br>
+    <a>
+    <img src="https://img.shields.io/badge/ilyad03@gmail.com-darkred?logo=Email&logoColor=white&style=socialr" alt="email"/>
+   </a>
 
 ### About me
  - I am a student of Saratov State Technical university. Now I'm styding a definite stack of technologies, to become a software engineer
