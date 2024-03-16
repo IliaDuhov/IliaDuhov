@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### About me
  - I am a student of Saratov State Technical university. Now I'm styding a definite stack of technologies, to become a software engineer
 ### Stack of tecnhologies
-- Backend development using **Java, SpringBoot, C#**
+- Backend development using **Java, Spring, SpringBoot**
 - Databases **MongoDB, MySQL, PostgreSQL**
 - Technologies **Docker, S3/MinIO, KeyCLoak**
 
